@@ -9,7 +9,6 @@ fetch("./file.json")
     .then(response => response.json())
     .then(data => {
         products = data;
-
         renderProducts();
         renderPagination();
     });
@@ -37,9 +36,7 @@ function getVisibleCount() {
 }
 
 function getMaxPosition() {
-    return Math.max(
-        0,
-        products.length - getVisibleCount()
+    return Math.max(0, products.length - getVisibleCount()
     );
 }
 
