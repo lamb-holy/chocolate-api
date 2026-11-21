@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Orange",
+        "type": "Dark chocolate",
+        "price": 45,
+        "image": "./img/orange.webp"
+    },
+    {
+        "id": 2,
+        "name": "Apple & Cranberry",
+        "type": "Milk chocolate",
+        "price": 50,
+        "image": "./img/cranberry.webp"
+    },
+    {
+        "id": 3,
+        "name": "Lime & Sea Salt",
+        "type": "Dark chocolate",
+        "price": 66,
+        "image": "./img/lime.webp"
+    },
+    {
+        "id": 4,
+        "name": "Pineapple",
+        "type": "Dark chocolate",
+        "price": 54,
+        "image": "./img/pineapple.webp"
+    },
+    {
+        "id": 5,
+        "name": "Classic",
+        "type": "Milk chocolate",
+        "price": 45,
+        "image": "./img/classic.webp"
+    },
+    {
+        "id": 6,
+        "name": "Honey",
+        "type": "Milk chocolate",
+        "price": 50,
+        "image": "./img/honey.webp"
+    },
+    {
+        "id": 7,
+        "name": "Roasted fruits",
+        "type": "Dark chocolate",
+        "price": 66,
+        "image": "./img/winter.webp"
+    },
+    {
+        "id": 8,
+        "name": "Classic",
+        "type": "White chocolate",
+        "price": 54,
+        "image": "./img/white.webp"
+    }
+]
